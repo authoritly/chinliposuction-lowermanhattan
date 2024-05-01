@@ -829,6 +829,7 @@ a {
   margin: auto;
   margin-left: 0;
   margin-left: auto;
+  margin-right: 0;
 }
 .cid-ub8LexUox6 .navbar-nav .nav-item {
   padding: 0 !important;
@@ -902,7 +903,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.7) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -944,7 +945,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.7) !important;
 }
 .cid-ub8LexUox6 .nav-item:focus,
 .cid-ub8LexUox6 .nav-link:focus {
@@ -1272,8 +1273,8 @@ a {
     border-radius: 1.5rem;
     background: #ffffff;
     opacity: 1;
-    border-color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(255, 255, 255, 0.8) !important;
+    border-color: rgba(255, 255, 255, 0.7) !important;
+    background: rgba(255, 255, 255, 0.7) !important;
     backdrop-filter: blur(8px);
   }
   .cid-ub8LexUox6 .navbar-nav .nav-item .nav-link::after {
@@ -2118,8 +2119,8 @@ a {
   flex-direction: row-reverse;
 }
 .cid-u6etZR65FX {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-u6etZR65FX .mbr-fallback-image.disabled {
@@ -2166,8 +2167,8 @@ a {
   color: #232323;
 }
 .cid-u6eubCaxWk {
-  padding-top: 4rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u6eubCaxWk .mbr-fallback-image.disabled {
@@ -2260,21 +2261,9 @@ a {
   font-size: 60px;
   color: #777;
 }
-#custom-html-a {
-  /* Type valid CSS here */
-}
-#custom-html-a div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-a p {
-  font-size: 60px;
-  color: #777;
-}
 .cid-u6euaxLxXS {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u6euaxLxXS .mbr-text {
@@ -2302,8 +2291,8 @@ a {
   color: #000000;
 }
 .cid-ubgE0yFuIK {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-ubgE0yFuIK .mbr-text {
@@ -2317,7 +2306,7 @@ a {
 }
 .cid-ubgApImlW9 {
   padding-top: 0rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-ubgApImlW9 .mbr-text {
